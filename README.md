@@ -51,7 +51,7 @@ inside-the-system-zh/
 
 This is a decompiled Minecraft mod. To rebuild:
 
-1. Set up a NeoForge 1.20.1 development environment
+1. Set up a NeoForge 1.21.1 development environment
 2. Copy the `extracted/` contents into your project's `src/main/resources/`
 3. Compile with Maven/Gradle
 
