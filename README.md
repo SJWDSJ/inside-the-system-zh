@@ -16,7 +16,7 @@
 
 - **Original Mod:** https://modrinth.com/mod/inside-the-system
 - **Author's Boosty:** https://boosty.to/dregir
-- **Modrinth Project:** [Your Modrinth URL]
+- **Modrinth Project:** https://modrinth.com/mod/inside-the-system-zh-cn
 - **Full Disclosure:** [FULL_TECHNICAL_DISCLOSURE_ZH.md](FULL_TECHNICAL_DISCLOSURE_ZH.md)
 
 ## ⚠️ Technical Features Disclosure
